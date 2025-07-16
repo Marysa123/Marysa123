@@ -97,20 +97,11 @@ _Май 2025 - Май 2025_
 #### GitHub Activity Graph:
 ![Дмитрий Сердцев's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user=Marysa123)
 
-#### Дмитрий Сердцев's GitHub Stats:
-[![Дмитрий Сердцев's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marysa123&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 #### Топ языков программирования:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marysa123&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-#### 🔥 GitHub Streak Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marysa123&theme=dark)](https://git.io/streak-stats)
-
 #### Достижения:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Marysa123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-#### Codewars:
-[![codewars](https://www.codewars.com/users/Marysa123/badges/large)](https://www.codewars.com/users/Marysa123)
 
 #### Просмотры профиля:
 ![](https://komarev.com/ghpvc/?username=Marysa123&color=green)
