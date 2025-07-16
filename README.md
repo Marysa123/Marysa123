@@ -94,9 +94,6 @@ _Май 2025 - Май 2025_
 
 ### 📈 Статистика GitHub
 
-#### GitHub Activity Graph:
-![Дмитрий Сердцев's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user=Marysa123)
-
 #### Топ языков программирования:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marysa123&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
